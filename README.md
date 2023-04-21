@@ -3,7 +3,7 @@
      height="auto"/>
 </p>
 
-# <h1 align="center" id="heading"># Project Title-Team Members: Laura Brin
+# <h1 align="center" id="heading"># Board Game Rating Predictor - Laura Brin
 </h1>
 
 
