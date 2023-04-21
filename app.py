@@ -2,7 +2,6 @@ import numpy as np
 import streamlit as st
 import pandas as pd
 import pickle
-import sklearn
 
 st.write(''' # Board Game Rating Prediction App''')
 
@@ -17,7 +16,7 @@ def user_input_features():
   complexity=st.sidebar.slider('Complexity', 0, 5, 2)
 
   user_input_data = {'Min Players': Minimum_Players,
-               ' Max Players': Maximum_Players,
+               'Max Players': Maximum_Players,
                'Play Time': Play_time,
                'Min Age': Min_age,
                'Game_Genre': [Game_Genre],
