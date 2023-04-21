@@ -1,5 +1,1 @@
-"# EDALabs" 
-"# EDALabs" 
-"# Classifying-EMPA-mineral-data" 
-"# Classifying-EMPA-mineral-data" 
-"# Database_Labs" 
+## Predictor for potential Game rating based on features used on Board Game Geek
